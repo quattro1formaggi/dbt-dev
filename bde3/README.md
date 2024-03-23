@@ -1,6 +1,6 @@
 Welcome to your new dbt project!
 
-### Using the starter project
+### This research delves deeply into the intricacies of data pipelines, harnessing the capabilities of Airflow to orchestrate data workflows. By integrating Airflow with Postgres, the project ensures a smooth transition and manipulation of data, utilizing DBeaver as the primary interface for database management. Moving further into data warehousing, dbt within the VS Code environment becomes the cornerstone. This setup facilitates efficient data transformations, priming the data for analytical insights. To encapsulate the entire process, all structured data models and workflows are diligently documented and housed in a GitHub repository via git, providing a comprehensive and accessible record for all stakeholders.
 
 Try running the following commands:
 - dbt run
